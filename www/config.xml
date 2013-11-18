@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="windows-1251" ?>
+    
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Даниел Дилов</name>
+    <description>
+        An example for phonegap build docs. 
+    </description>
+
+    <author href="http://www.rovel.bg" email="ddilov@dir.bg">
+        Daniel Dilov
+    </author>
+
+</widget>
+
+
